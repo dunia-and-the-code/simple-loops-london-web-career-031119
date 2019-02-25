@@ -27,6 +27,7 @@ def while_iterator(number_of_times)
   puts phrase
   number_of_times += 1
 end
+end
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
